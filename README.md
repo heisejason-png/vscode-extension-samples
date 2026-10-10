@@ -94,3 +94,4 @@ Copyright (c) Microsoft Corporation. All rights reserved.
 
 Licensed under the [MIT](https://github.com/microsoft/vscode-extension-samples/blob/main/LICENSE) License.
 Created by Jason Heise
+Owned by Jason Heise heisejason-png Giters
